@@ -1,6 +1,8 @@
 # Pokemon_Uygulamasi
 
 ![poke_giris](https://github.com/user-attachments/assets/b7beb60a-4840-440d-b26d-97adc47ea3f2)
+
+
 Bilgilerini getirmek istediğiniz pokemonun adını girin hepsi bu kadar :)
 
 ![poke_snorlax](https://github.com/user-attachments/assets/a1111b6b-0556-4222-8f09-a0bc17dae94b)
